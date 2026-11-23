@@ -1,4 +1,4 @@
-# Привет, я Кирилл Капинос 👋
+# Привет, я Кирилл👋
 
 **Python & AI Bot Developer · 3D Artist (Blender) · CAD (AutoCAD) · Roblox (Luau)**
 
